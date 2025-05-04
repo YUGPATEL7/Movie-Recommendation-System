@@ -1,7 +1,7 @@
 # Movie Recommender System
 A content-based movie recommender system built using Machine Learning and deployed with Streamlit. It suggests similar movies based on selected movie preferences using text similarity and cosine similarity techniques.
 
-##Features
+## Features
 Recommends 5 similar movies based on user input
 
 Fetches movie posters using the TMDB API
